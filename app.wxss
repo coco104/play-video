@@ -1,0 +1,23 @@
+/**app.wxss**/
+page {
+  background-color: rgb(229, 220, 231);
+  height: 100%;
+  font-size: 40rpx;
+  line-height: 2.0;
+}
+
+.page-body {
+  padding: 30rpx 0;
+  
+}
+
+.btn-area{
+  margin-top: 40rpx;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0 50rpx;
+}
+
+.tc{
+  text-align: center;
+}

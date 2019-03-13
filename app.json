@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "rgba(248, 234, 31, 0.877)",
+    "navigationBarTitleText": "video",
+    "navigationBarTextStyle": "black"
+  }
+}
