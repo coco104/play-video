@@ -1,0 +1,6 @@
+/**index.wxss**/
+
+.page-body-button {
+  margin-bottom: 30rpx;
+  text-align:medium;
+}
